@@ -32,7 +32,7 @@
 
     grid(
     columns: (1fr, 1fr),
-    inset: 3pt,
+    inset: 0pt,
     align: (horizon + center, horizon),
     rect(
       width: 315pt,
